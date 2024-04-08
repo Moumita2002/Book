@@ -38,4 +38,5 @@ Description: Retrieves all booked slots.
 How to run the application ?
 - Clone the repo
 - Install dependencies  by using command "npm install"
+- Create a separate dotenv file to save your MongoDB url/password
 - To run use the command "npm start"
